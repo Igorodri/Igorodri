@@ -1,6 +1,11 @@
-<h1 align="left">Olá, eu sou o Igor! 👋</h1>
+<h1 align="left">Olá, eu sou Igor! 👋</h1>
 
 <h2 align="left">👨‍💻 Desenvolvedor Fullstack</h2>
+
+---
+<p align="left">
+Me chamo Igor Mascarenhas, tenho 20 anos, sou formado em Desenvolvimento de Sistemas pelo SENAI Cimatec e atualmente curso Análise e Desenvolvimento de Sistemas na Uninter. Sou apaixonado por tecnologia, sempre em busca de aprender novas ferramentas e aperfeiçoar as que já conheço. Estou constantemente me desafiando, buscando evoluir como desenvolvedor e aberto a novas experiências que agreguem ao meu crescimento profissional.
+</p>
 
 ---
 
@@ -10,7 +15,6 @@
 🚀 Apaixonado por tecnologia e desenvolvimento web<br>
 📚 Atualmente aprendendo novas stacks e boas práticas de arquitetura<br>
 🎯 Objetivo: Me tornar um desenvolvedor de referência e contribuir com projetos<br>
-🔍 Detalhe interessante: Já quebrei o layout inteiro tentando alinhar um botão...<br>
 </p>
 
 ---
@@ -44,4 +48,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" />
 </div>
+
+<h2 align="left">💻 Meu Currículo</h2>
 
