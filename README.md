@@ -9,8 +9,8 @@
 <p align="left">
 🚀 Apaixonado por tecnologia e desenvolvimento web<br>
 📚 Atualmente aprendendo novas stacks e boas práticas de arquitetura<br>
-🎯 Objetivo: Me tornar um desenvolvedor de referência e contribuir com projetos open source<br>
-🎲 Curiosidade: Comecei programando por curiosidade... e nunca mais parei!<br>
+🎯 Objetivo: Me tornar um desenvolvedor de referência e contribuir com projetos<br>
+🔍 Detalhe interessante: Já quebrei o layout inteiro tentando alinhar um botão...<br>
 </p>
 
 ---
@@ -39,7 +39,13 @@
 
 <h2 align="left">📫 Contato</h2>
 
-<p align="left">
-Se quiser trocar uma ideia ou colaborar em algum projeto, me chama por aqui mesmo no GitHub ou nas redes sociais!
-</p>
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
+  <img width="12" />
+  /*<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="Discord logo" />
+  <img width="12" />*/
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" />
+  <img width="12" />
+  /*<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="Instagram logo" />*/
+</div>
 
