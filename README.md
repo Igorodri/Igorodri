@@ -41,13 +41,3 @@ Me chamo Igor Mascarenhas, tenho 20 anos, sou formado em Desenvolvimento de Sist
 
 ---
 
-<h2 align="left">📫 Contato</h2>
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" height="40" alt="Gmail logo" />
-</div>
-
-<h2 align="left">💻 Meu Currículo</h2>
-
