@@ -1,6 +1,6 @@
 <h1 align="left">Olá, eu sou Igor! 👋</h1>
 
-<h2 align="left">👨‍💻 Desenvolvedor Frontend</h2>
+<h2 align="left">👨‍💻 Desenvolvedor Fullstack</h2>
 
 ---
 <p align="left">
